@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "submissionmlgc-sanggul-444906",
+    "private_key_id": "b0bc24ff58e7a2586c42eb195ae949f6f4e346ab",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC9GWqzi6sjcKbk\nF9OFxDImP9m+6pADwTOIkIyi3hUQNJBjvHDX/+/85LoR0TxQ96+HqoRvqiEbTVgU\n/4YqmdTCc6LJ5haGjgH3JABVmYTdLVeluPP2Fu0EBVsKEa1IOEYM4SicXSFKliW0\nRDv/2w3UcMHeEqi+EQ8Oegnn9ykVAwDNzBBU7AqyIt/aB7lV2G1OSuHmArcDbF1a\n73i0GMETQ4uzPhDyBPlDgYoWq8Z3/wznD6VjsXTbDQTuQBbrinzZ6rvA7dPdcD8Q\n8XuJwSfMuNViKwjGYjsTUlnKXCPlzEMkujxpAMvAyXL8JuSwN9/H28EdGZx+fl5w\nbDO3KNgZAgMBAAECggEABCx38O+PvvABFv65ofWzH6oAHdkihZqxjv2VxRB+yYVH\nfJQPr4zMGLpZqwQBv03AN4/ZbXeFVItv+sKrDOypSANyX99uttiSjYhjY4BIcPNL\nwHIlHFTkNVcC6+V4/COV1DnyAgWCMxm+SkzJQDvvAbXdaY/i3pMU0H58En0fkIGf\nK2/KeiDBHm4pav2VTzLe/xOcaYV1ypHwCNV0y1lqbdMCy6IzCutB/1cTM0HSEC16\nWoBliIOYJf1/Zg37/RVHtSuUCzcNKeNC2e+nk2luIvtkUCZR6l9JwLwnOFx/aiDw\n7OaiXvVgMaIo1YSFrY0e7xR+4q2oHgcxy/5gGpMUAQKBgQD6M6hhTA1BAouVfG36\nmuYl2hWXJweWR0qXA7SNgP3XtfxvgqpInfoLkt908Er5Rv5DtXLqEaPO6THrkaPt\n2AbwGXwPmGyikhW+u61T3zZgt+QB6W+NkAoKUDnuecprzSobn9WF9cer7xTd933a\nZuhCkSfm+OWHAlp0WOZnTeV9GQKBgQDBe0N3ekXVmWs/5ZvQ0hlEuFN4B3n3Z6wn\nXZpgTjv1F0sSKjT6qGiQq5OQLhKyd8mQHymDJUFMHOyjwAEeiLb/y/lMLwk46ks9\nInjkfa1HrA4GycPgUlwP1wWq2Ps8/CpUf+1sz3lXNkFf5KcPDUMjxUWDCXjgW8lV\nCtaSdZ6TAQKBgQCNxV2gnCZacuXC83mh6cmFIzjeqBfteEH0pf3VvISZiR4b1W9F\nrHY1vqhtq4bgDvEeTp9psEsggBRwRdscdy8fN2GLuLO9vochx1hkUPOQBELnLm2u\nSjLWOzVIQqyHPv6gHoYv3N+iNdueFpGygmMS7QsuHlR4lsXIbWNIn+PsaQKBgH6H\nB4XYtlaLL/HnS9BxtQiVqjAyY3aBm7laoxwbzWXoR7WnWGIbQ9Zn/eYp2xxO7ceM\nOW+EK4GE4NPtOk4nhdUeJPfHQravsWhXZMu3zFu0jq+tvqSx93Z8XT5vC03EckI0\nLqYbv/RijLoTI5TaTW/VEDIzPZMrMyykG9JHjN4BAoGANcaQ2Nlo7Q2FXQb4Lx8m\nNaTTJkSmZI2fex23sLAHCdU605Cwy0OVoEpsspw13AWpIL4DN++/pygGC9038sst\nBJUriB1nvCr/7PdAy8NJsE1hGXEWRqIv2ULOZe4U6cRgaG4ZkGqQF7lDWGKOK9kV\nbAiI+Qb3yEvp6XwMCikI5GY=\n-----END PRIVATE KEY-----\n",
+    "client_email": "firestore-service-access@submissionmlgc-sanggul-444906.iam.gserviceaccount.com",
+    "client_id": "110238735174336577735",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firestore-service-access%40submissionmlgc-sanggul-444906.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
